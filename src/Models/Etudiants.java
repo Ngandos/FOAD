@@ -42,4 +42,5 @@ public class Etudiants {
                 ", email='" + email + '\'' +
                 '}';
     }
+
 }
