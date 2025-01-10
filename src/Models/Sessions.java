@@ -40,10 +40,10 @@ public class Sessions {
 
     @Override
     public String toString() {
-        return "Sessions{" +
-                "sessionId=" + sessionId +
-                ", LocalDate=" + LocalDate +
-                ", etudiants=" + etudiants +
+        return "Sessions {" +
+                "sessionId = " + sessionId +
+                ", LocalDate = " + LocalDate +
+                ", etudiants = " + etudiants +
                 '}';
     }
 }
